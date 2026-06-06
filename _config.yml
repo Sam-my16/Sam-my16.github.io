@@ -60,8 +60,7 @@ plugins:
 author:
   name   : "Sammy Vallejo"
   avatar : "/assets/images/sammy.jpeg"
-  bio    : "Estudiante de física y ciencias de datos. 
-  "Intento de corredorx y panaderx, apasionadx de las nuevas tecnologías."
+  bio    : "Estudiante de física y ciencias de datos. Intento de corredorx y panaderx, apasionadx de las nuevas tecnologías."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
