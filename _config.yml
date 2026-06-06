@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Vallejo"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/sammy.jpeg"
   bio    : "Estudiante de física y de ciencias de datos."
   links:
     - label: "Website"
