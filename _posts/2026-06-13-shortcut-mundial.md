@@ -1,10 +1,10 @@
 ---
 title: "Fiebre mundialista"
 categories:
-  - Programacion
+  - Programación
 tags:
   - Mundial 2026
-  - Programacion
+  - Programación
   - Shortcuts Apple
   - Apple
 ---
