@@ -29,4 +29,5 @@ Con una pequeña variación en el paso 5, registrando goles en vez de hora, y co
 Hay cosas por mejorar, pero le dediqué más tiempo del que tenía pensado y por ahora lo dejo así. Lo importante es que funciona: ya no me pierdo ningún partido. Los Shortcuts los subo igual, aunque sé que al ser una app de Apple la cantidad de personas que lo pueden usar es limitado.
 
 [Partidos de hoy](https://www.icloud.com/shortcuts/5c011aad34cd45e58e96fee8470c047d)
+
 [Resultados de ayer](https://www.icloud.com/shortcuts/8554581d760d47f2b5cb6dfe5954fa55)
