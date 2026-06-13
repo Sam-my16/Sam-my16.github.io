@@ -1,7 +1,7 @@
 ---
 title: "Mi primer página web!"
 categories:
-  - blog
+  - Blog
 tags:
   - Bienvenida
 ---
